@@ -13,7 +13,7 @@
 <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=villefor&theme=tokyonight&bg_color=0d1117&border_color=eee" height="260" width=300/>
 
 - ![JavaScript](https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=javascript)&nbsp;
-- ![Node.JS](https://img.shields.io/badge/-NodeJS-05122A?style=flat&logo=node)&nbsp;
+- ![NodeJS](https://img.shields.io/badge/-NodeJS-05122A?style=flat&logo=node.js)&nbsp;
 - ![HTML](https://img.shields.io/badge/-HTML-05122A?style=flat&logo=HTML5)&nbsp;
 - ![CSS](https://img.shields.io/badge/-CSS-05122A?style=flat&logo=CSS3&logoColor=1572B6)&nbsp;
 - ![React](https://img.shields.io/badge/-React-05122A?style=flat&logo=react&logoColor=1572B6)&nbsp;
