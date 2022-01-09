@@ -30,10 +30,11 @@
 
 <!-- Icons -->
 
-[2.2]: https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/linkedin-3-16.png (LinkedIn icon without padding)
+[2.2]: https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/linkedin-3-16.png (LinkedIn icon, see you there)
 
 <!-- Links to your social media accounts -->
 
 [2]: https://www.linkedin.com/in/dvillefor/
 
+--- Contributions
 ![snake gif](https://github.com/Villefor/.github-workflows/blob/output/github-contribution-grid-snake.gif)
