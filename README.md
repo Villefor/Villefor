@@ -37,4 +37,5 @@
 [2]: https://www.linkedin.com/in/dvillefor/
 
 --- Contributions
+
 ![snake gif](https://github.com/Villefor/.github-workflows/blob/output/github-contribution-grid-snake.gif)
