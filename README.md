@@ -8,6 +8,8 @@
 </p>
 </br>
 
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=villefor)](https://github.com/villefor/github-readme-stats)
+
 #### 🛠 &nbsp;Tech Stack
 
 <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=villefor&theme=tokyonight&bg_color=0d1117&border_color=eee" height="260" width=300/>
