@@ -8,7 +8,7 @@
 </p>
 </br>
 
-[align="center" ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=villefor&show_icons=true&theme=gotham&count_private=true)(https://github.com/villefor/github-readme-stats)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=villefor&show_icons=true&theme=gotham&count_private=true)
  
 
 #### 🛠 &nbsp;Tech Stack
