@@ -34,7 +34,8 @@
 <h1 align="center">Tech Stack</h1>
 <div style="display: inline_block;" align="center">
   
-| :--------- | :--------- |
+|  **PROPRIEDADES** | **TECNOLOGIAS** |
+| :---------        |     :---------  |
 |**IDE** | <img align="center" alt="VSCODE" height="30" src="https://img.shields.io/badge/VSCode-blue?&style=for-the-badge&logo=visual-studio&logoColor=white"> |
 | **Libs - FrameWork** |  <img align="center" alt="React" height="30" src="https://img.shields.io/badge/React-05122A?style=for-the-badge&logo=react&logoColor=61DAFB"> <img align="center" alt="nexJS" height="30" src="https://img.shields.io/badge/nextjs-527a7a?&style=for-the-badge&logo=RestApi&logoColor=white">|
 |**Daily use** |  <img align="center" alt="Jira" height="30" src="https://img.shields.io/badge/Jira-0047b3?&style=for-the-badge&logo=pandas&logoColor=white"> <img align="center" alt="GIT" height="30" src="https://img.shields.io/badge/git-61210B?&style=for-the-badge&logo=git&logoColor=white"> <img align="center" alt="HEROKU" height="30" src="https://img.shields.io/badge/heroku-0d1533?&style=for-the-badge&logo=heroku&logoColor=white">|
