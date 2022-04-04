@@ -68,8 +68,8 @@
 
 <div align="center">
   <a href="https://github.com/Villefor>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=by-lucas&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=by-lucas&layout=compact&langs_count=7&theme=dracula"/>                                  </div>                     
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=villefor&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=villefor&layout=compact&langs_count=7&theme=dracula"/>          </div>                     
 
 #
  <div align="center">
@@ -84,7 +84,3 @@
    ![snake gif](https://github.com/Villefor/.github-workflows/blob/output/github-contribution-grid-snake.gif)
 
  </div>
-  
-
-
-![snake gif](https://github.com/Villefor/.github-workflows/blob/output/github-contribution-grid-snake.gif)
