@@ -37,7 +37,7 @@
 |  **PROPRIEDADES** | **TECNOLOGIAS** |
 | :---------        |     :---------  |
 |**IDE** | <img align="center" alt="VSCODE" height="30" src="https://img.shields.io/badge/VSCode-blue?&style=for-the-badge&logo=visual-studio&logoColor=white"> |
-| **Libs - FrameWork** |  <img align="center" alt="React" height="30" src="https://img.shields.io/badge/React-05122A?style=for-the-badge&logo=react&logoColor=61DAFB"> <img align="center" alt="nexJS" height="30" src="https://img.shields.io/badge/next.js-527a7a?&style=for-the-badge&logo=RestApi&logoColor=white">|
+| **Libs - FrameWork** |  <img align="center" alt="React" height="30" src="https://img.shields.io/badge/React-05122A?style=for-the-badge&logo=react&logoColor=61DAFB"> <img align="center" alt="nexJS" height="30" src="https://img.shields.io/badge/nextjs-527a7a?&style=for-the-badge&logo=RestApi&logoColor=white">|
 |**Daily use** |  <img align="center" alt="Jira" height="30" src="https://img.shields.io/badge/Jira-0047b3?&style=for-the-badge&logo=pandas&logoColor=white"> <img align="center" alt="GIT" height="30" src="https://img.shields.io/badge/git-61210B?&style=for-the-badge&logo=git&logoColor=white"> <img align="center" alt="HEROKU" height="30" src="https://img.shields.io/badge/heroku-0d1533?&style=for-the-badge&logo=heroku&logoColor=white">|
 |**Databases** |  <img align="center" alt="MYSQL" height="30" src="https://img.shields.io/badge/mysql-404D59?style=for-the-badge&logo=mysql&logoColor=white"> <img align="center" alt="Sequelize" height="30"  src="https://img.shields.io/badge/Sequelize-862d59?style=for-the-badge&logo=Sqlite&logoColor=white">|
 | **Styles** |  <img align="center" alt="PANDAS" height="30" src="https://img.shields.io/badge/bootstrap-cc0066?&style=for-the-badge&logo=bootstrap&logoColor=white"> <img align="center" alt="CSS" height="30" src="https://img.shields.io/badge/css-007ACC?style=for-the-badge&logo=css3&logoColor=white"> <img align="center" alt="SASS" height="30" src="https://img.shields.io/badge/Sass-007ACC?style=for-the-badge&logo=css3&logoColor=white"> | 
@@ -46,7 +46,7 @@
 
 <div style="display: inline_block" align="center"><br>
    <img align="center" alt="ReactJS" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">-
-    <img align="center" alt="Next.JS" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/next.js/next-original.svg">-
+    <img align="center" alt="Next.JS" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg">-
   <img align="center" alt="JavaScript" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/>-
   <img align="center" alt="SASS" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg">-
   <img align="center" alt="CSS" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">-
