@@ -73,7 +73,7 @@
 
 #
  <div align="center">
-  <h1 align="center"> Studying development on </h1>
+  <h1 align="center"> Currently studying </h1>
     <strong>- React-Native <br>- Python <br>- Japanase</strong>
  </div> 
 
