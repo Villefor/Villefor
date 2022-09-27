@@ -4,7 +4,7 @@
 
 
 <p> 
-  I am Dário, a front-end developer / agronomic engineering student living in Brasília/BR. Currently studying at <a href="https://github.com/betrybe">@betrybe</a></span></p>
+  I am Dário, a front-end & mobile developer / agronomic engineering student living in Brasília/BR. Currently working at Inteligov building Apps using React Native </p>
 </p>
 
 <a href="https://www.linkedin.com/in/dvillefor/" target="_blank">
