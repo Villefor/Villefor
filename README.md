@@ -4,7 +4,7 @@
 
 
 <p> 
-  I am Dário, a front-end & mobile developer / agronomic engineering student living in Brasília/BR. Currently working at Inteligov building Apps using React Native </p>
+  I am Dário, a software and mobile developer living in Brasília/BR. Currently working at Serasa Experian - SalaryFits building applications using NextJS and React Native </p>
 </p>
 
 <a href="https://www.linkedin.com/in/dvillefor/" target="_blank">
