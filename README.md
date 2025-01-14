@@ -74,13 +74,8 @@
 #
  <div align="center">
   <h1 align="center"> Currently studying </h1>
-    <strong>- React-Native <br>- Python <br>- Japanase</strong>
+    <strong>- React-Native <br>- Swift <br>- Japanase</strong>
  </div> 
 
 #
 
- <div align="center">
-    
-   ![snake gif](https://github.com/Villefor/.github-workflows/blob/output/github-contribution-grid-snake.gif)
-
- </div>
